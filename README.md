@@ -1,6 +1,8 @@
 # 2020/1~ HPリニューアル工事(WordPress移行)仮公開中
 
-### <a href="https://itachi-hp.herokuapp.com/">itachi-P(Psycho-Logic) new Homepage(準備中)</a>
+### <a href="https://itachi-hp.herokuapp.com/">
+  <img width="100" alt="いたち" src="https://user-images.githubusercontent.com/46647015/73151918-d8c08800-4110-11ea-831b-451a030e7c7a.jpg">
+  itachi-P(Psycho-Logic) new Homepage(準備中)</a>
 
 ### <a href="https://itachip-php-todolist.herokuapp.com/php/login.php">生PHPによるToDoリスト</a>
 
@@ -15,5 +17,3 @@
 ---
 
 ![tehepero_cut 512x512](https://user-images.githubusercontent.com/46647015/73151918-d8c08800-4110-11ea-831b-451a030e7c7a.jpg)
-
-<img width="300" alt="いたち" src="https://user-images.githubusercontent.com/46647015/73151918-d8c08800-4110-11ea-831b-451a030e7c7a.jpg">

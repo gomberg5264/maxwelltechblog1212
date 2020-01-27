@@ -1,4 +1,4 @@
-# 2020/1~ HPリニューアル工事(AWS→WordPressに移行)仮公開中
+# 2020/1~ HPリニューアル(AWSからWordPressに移行)仮公開中
 
 ### <a href="http://itachi-hp.herokuapp.com/"><img width="50" alt="いたちてへペロ" src="https://user-images.githubusercontent.com/46647015/73151918-d8c08800-4110-11ea-831b-451a030e7c7a.jpg">itachi-P(Psycho-Logic) new Homepage(準備中)</a>
 

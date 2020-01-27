@@ -15,3 +15,5 @@
 ---
 
 ![tehepero_cut 512x512](https://user-images.githubusercontent.com/46647015/73151918-d8c08800-4110-11ea-831b-451a030e7c7a.jpg)
+
+<img width="300" alt="いたち" src="https://user-images.githubusercontent.com/46647015/73151918-d8c08800-4110-11ea-831b-451a030e7c7a.jpg">

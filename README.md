@@ -6,9 +6,9 @@
 
 ### <img src="https://user-images.githubusercontent.com/46647015/73153281-8edaa080-4116-11ea-8c97-3ffa82a5886b.gif"><a href="https://github.com/itachi-P/">GitHub</a>
 
-### <a href="https://itachip-php-todolist.herokuapp.com/php/login.php">生PHPによるToDoリスト</a>
+### <a href="https://itachip-php-todolist.herokuapp.com/php/login.php">生PHP(IDEやフレームワーク不使用）によるToDoリスト</a>
 
-### <a href="https://arcane-plains-37972.herokuapp.com/">Railsサンプル画面</a>
+### <a href="https://arcane-plains-37972.herokuapp.com/">Rails画面サンプル</a>
 
 ### Flutterによるマルチプラットフォームアプリ（準備中）
 

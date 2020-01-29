@@ -8,8 +8,10 @@
 
 ### ![タンバリンいたち](./img/tambourine.gif)<a href="https://itachip-php-todolist.herokuapp.com/php/login.php">生PHP(IDEやフレームワーク不使用）によるToDoリスト</a>
 
-### <a href="https://arcane-plains-37972.herokuapp.com/">Rails画面サンプル</a>
+### <a href="https://arcane-plains-37972.herokuapp.com/">Rails画面サンプル(参考用)</a>
 
 ### Flutterによるマルチプラットフォームアプリ（準備中）
+
+---
 
 ![いたちライン](./img/fere_line02.gif)

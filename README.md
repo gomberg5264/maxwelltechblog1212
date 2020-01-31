@@ -10,7 +10,7 @@
 
 ### <a href="https://arcane-plains-37972.herokuapp.com/">Rails画面サンプル(参考用)</a>
 
-![おでかけいたち](./img/odekake.gif)### Flutterによるマルチプラットフォーム(現状Android及びiOSのみ対応）アプリ（テスト開発中）
+### ![おでかけいたち](./img/odekake.gif) Flutterによるマルチプラットフォーム(現状Android及びiOSのみ対応）アプリ（テスト開発中）
 
 ---
 

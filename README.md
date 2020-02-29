@@ -1,5 +1,5 @@
 # 2020/1~ HPリニューアル(AWS→WordPress移行)仮公開中
-※ AWS無料利用期間終了により、費用面の問題からAmazon LightSail&WordPressにHP移行予定
+※ AWS無料利用期間終了により、コスト面を考慮しAmazon Lightsail&WordPressにHP移行予定
 
 ### モバイルアプリ開発（Android及びiOS両対応）学習中
 ##### 初のスマホアプリをGooglePlayかAppleStore（またはその両方）で近日公開予定
